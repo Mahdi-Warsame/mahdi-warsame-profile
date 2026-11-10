@@ -1,71 +1,71 @@
 # Hi, I'm Mahdi Warsame 👋
 
-A DevOps and Cloud Engineering enthusiast focused on building reliable, automated, and scalable systems.
+DevOps & Cloud Engineering enthusiast passionate about automation, continuous delivery, and building systems that are reliable, scalable, and easy to operate.
 
-I enjoy working across the full delivery lifecycle — from infrastructure and automation to CI/CD pipelines, containerization, and deployment workflows.
+I focus on the practical side of engineering: CI/CD pipelines, infrastructure automation, Docker, AWS, and cloud-native workflows that help teams ship with confidence.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=DevOps+Engineer;Cloud+Automation;CI%2FCD+Pipeline+Builder;Infrastructure+as+Code;Docker+%26+Kubernetes;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Cloud+Automation+Specialist;CI%2FCD+Builder;Docker+%26+AWS;Infrastructure+as+Code;Always+Learning" alt="Typing SVG" />
 </p>
 
 ## About Me
 
-- Passionate about automation, cloud infrastructure, and developer productivity
-- Interested in CI/CD, Docker, AWS, Terraform, and Linux environments
-- Building practical projects around real-world DevOps workflows
-- Constantly improving my skills with hands-on engineering work
+- Passionate about automating repetitive workflows and improving developer productivity
+- Interested in cloud infrastructure, release pipelines, and deployment reliability
+- Building hands-on projects in DevOps, automation, and containerization
+- Learning by implementing real-world systems and solving practical engineering problems
 
-## Core Skills
+## Skills
 
 ### DevOps & Cloud
 - CI/CD pipelines
 - GitHub Actions
-- Docker and containerization
-- AWS cloud services
+- Docker & containerization
+- AWS services
 - Infrastructure as Code
-- Monitoring and deployment automation
+- Application deployment automation
 
 ### Tools & Technologies
 - Linux / Ubuntu
-- Git & GitHub workflows
+- Git & GitHub
 - Python
 - Bash scripting
 - Terraform
-- Node.js / JavaScript basics
-- YAML and configuration management
+- Node.js / JavaScript
+- YAML and pipeline configuration
 
-## Featured Projects
+## Featured Work
 
 ### OpsPulse
-A DevOps-oriented project focused on deployment automation, pipeline workflows, and cloud-ready application delivery.
+A DevOps-focused project centered on deployment automation, pipeline workflows, and cloud-ready application delivery.
 
 ### Incident Report System
-A full-stack application prototype for reporting and tracking healthcare incidents, combining frontend/backend architecture with operational workflows.
+A full-stack prototype for reporting and tracking healthcare incidents, covering both backend logic and a user-facing application experience.
 
 ### CI/CD Challenge Projects
-Hands-on projects exploring automated testing, Docker builds, deployment pipelines, and cloud infrastructure patterns.
+Hands-on projects exploring automated testing, Docker builds, deployment strategies, and infrastructure patterns used in modern DevOps workflows.
 
 ## Current Focus
 
-- Strengthening cloud-native application deployment skills
-- Improving infrastructure automation and IaC practices
-- Building reliable pipelines for testing, build, and release automation
-- Exploring modern DevOps and platform engineering patterns
+- Strengthening AWS and cloud deployment skills
+- Improving CI/CD reliability and automation best practices
+- Expanding infrastructure-as-code experience
+- Building clean, repeatable delivery pipelines for real-world projects
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahdi-Warsame&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahdi-Warsame&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahdi-Warsame&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 </p>
 
-## Learning Journey
+## Learning Philosophy
 
-I’m driven by practical learning and real-world implementation. I like solving engineering problems with automation, clean workflows, and scalable infrastructure.
+I believe great systems are built by combining automation, clarity, and continuous improvement. I enjoy turning ideas into reliable workflows that teams can trust and scale.
 
 ## Connect
 
 - GitHub: https://github.com/Mahdi-Warsame
-- Email: available upon request
+- Portfolio repo: https://github.com/Mahdi-Warsame/mahdi-warsame-profile
 
-> “Automate the boring, scale the important, and build systems that keep working.”
-
+> “Automate the routine. Scale the important. Build systems that keep working.”
